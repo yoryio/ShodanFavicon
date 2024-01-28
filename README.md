@@ -69,7 +69,7 @@ http.favicon.hash:-1439222863
 
 ## Jenkins
 
-### ![jenkins](https://github.com/yoryio/ShodanExploitation/assets/134471901/fb08af59-7fd7-4d90-b319-0c180df1878f)  Jenkins
+### ![jenkins](https://github.com/yoryio/ShodanExploitation/assets/134471901/f3d1ba1c-41f1-4df4-86db-98432abaad96)  Jenkins
 
 ```
 http.favicon.hash:81586312
