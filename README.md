@@ -3,49 +3,49 @@ List of favicon hashes of the critical products by vendor to seach with Shodan
 
 ## Atlassian
 
-#### Bamboo Data Center ![favicon](https://github.com/yoryio/ShodanExploitation/assets/134471901/79361b94-a582-4fc1-9a7a-3ba18e679864)
+### Bamboo Data Center  ![bamboo](https://github.com/yoryio/ShodanExploitation/assets/134471901/331b8b23-e844-4576-8bfa-095e5d74bdbd)
 
 ```
 http.favicon.hash:-1379982221
 ```
 
-#### Bitbucket
+### Bitbucket  ![bitbucket](https://github.com/yoryio/ShodanExploitation/assets/134471901/0d361351-6b05-4a6e-b764-61b16b6cc027)
 
 ```
 http.favicon.hash:667017222
 ```
 
-#### Confluence Data Center
+### Confluence Data Center  ![confluence](https://github.com/yoryio/ShodanExploitation/assets/134471901/84a3e7ab-b639-4af9-ad66-d5b45a38b16c)
 
 ```
 http.favicon.hash:-305179312
 ```
 
-#### Crucible
+### Crucible
 
 ```
 http.favicon.hash:1369277006
 ```
 
-#### Fisheye
+### Fisheye
 
 ```
 http.favicon.hash:-1665357670
 ```
 
-#### Jira Service Management
+### Jira Service Management
 
 ```
 http.favicon.hash:705143395
 ```
 
-#### Jira Software Management
+### Jira Software Management
 
 ```
 http.favicon.hash:628535358
 ```
 
-#### Statuspage
+### Statuspage
 
 ```
 http.favicon.hash:-1806014473
@@ -61,7 +61,7 @@ http.favicon.hash:1265477436
 
 ## Ivanti 
 
-#### Ivanti Connect Secure
+### Ivanti Connect Secure
 
 ```
 http.favicon.hash:-1439222863
@@ -69,7 +69,7 @@ http.favicon.hash:-1439222863
 
 ## Jenkins
 
-#### Jenkins
+### Jenkins
 
 ```
 http.favicon.hash:81586312
@@ -77,7 +77,7 @@ http.favicon.hash:81586312
 
 ## SAP
 
-#### SAP NetWeaver
+### SAP NetWeaver
 
 ```
 http.favicon.hash:-266008933
