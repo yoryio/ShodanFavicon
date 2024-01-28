@@ -3,7 +3,7 @@ List of favicon hashes of the critical products by vendor to seach with Shodan
 
 ## Atlassian
 
-#### Bamboo Data Center and Server
+#### Bamboo Data Center
 
 ```
 http.favicon.hash:-1379982221
@@ -15,7 +15,7 @@ http.favicon.hash:-1379982221
 http.favicon.hash:667017222
 ```
 
-#### Confluence Data Center and Confluence Server
+#### Confluence Data Center
 
 ```
 http.favicon.hash:-305179312
