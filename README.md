@@ -3,19 +3,19 @@ List of favicon hashes of the critical products by vendor to seach with Shodan
 
 ## Atlassian
 
-![bamboo](https://github.com/yoryio/ShodanExploitation/assets/134471901/331b8b23-e844-4576-8bfa-095e5d74bdbd) ### Bamboo Data Center
+### ![bamboo](https://github.com/yoryio/ShodanExploitation/assets/134471901/331b8b23-e844-4576-8bfa-095e5d74bdbd) ### Bamboo Data Center
 
 ```
 http.favicon.hash:-1379982221
 ```
 
-![bitbucket](https://github.com/yoryio/ShodanExploitation/assets/134471901/0d361351-6b05-4a6e-b764-61b16b6cc027) ### Bitbucket
+### ![bitbucket](https://github.com/yoryio/ShodanExploitation/assets/134471901/0d361351-6b05-4a6e-b764-61b16b6cc027) Bitbucket
 
 ```
 http.favicon.hash:667017222
 ```
 
- ![confluence](https://github.com/yoryio/ShodanExploitation/assets/134471901/84a3e7ab-b639-4af9-ad66-d5b45a38b16c) ### Confluence Data Center
+ ### ![confluence](https://github.com/yoryio/ShodanExploitation/assets/134471901/84a3e7ab-b639-4af9-ad66-d5b45a38b16c) ### Confluence Data Center
 
 ```
 http.favicon.hash:-305179312
