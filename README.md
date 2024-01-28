@@ -3,7 +3,7 @@ List of favicon hashes of the critical products by vendor to seach with Shodan
 
 ## Atlassian
 
-### ![bamboo](https://github.com/yoryio/ShodanExploitation/assets/134471901/229a7ca0-0551-4fbd-9fa4-a362949256f7)  Bamboo Data Center
+### ![bamboo](https://github.com/yoryio/ShodanExploitation/assets/134471901/229a7ca0-0551-4fbd-9fa4-a362949256f7)  Bamboo
 
 ```
 http.favicon.hash:-1379982221
@@ -15,7 +15,7 @@ http.favicon.hash:-1379982221
 http.favicon.hash:667017222
 ```
 
- ### ![confluence](https://github.com/yoryio/ShodanExploitation/assets/134471901/84a3e7ab-b639-4af9-ad66-d5b45a38b16c)  Confluence Data Center
+ ### ![confluence](https://github.com/yoryio/ShodanExploitation/assets/134471901/84a3e7ab-b639-4af9-ad66-d5b45a38b16c)  Confluence
 
 ```
 http.favicon.hash:-305179312
@@ -27,7 +27,7 @@ http.favicon.hash:-305179312
 http.favicon.hash:1369277006
 ```
 
-### ![fisheye](https://github.com/yoryio/ShodanExploitation/assets/134471901/5a7649b9-4567-4a93-943f-c25ae56dbc1b)  Fisheye
+### ![fisheye](https://github.com/yoryio/ShodanExploitation/assets/134471901/c8af8c70-b728-4c03-97ea-aecf9f2b42df)  Fisheye
 
 ```
 http.favicon.hash:-1665357670
@@ -53,7 +53,7 @@ http.favicon.hash:-1806014473
 
 ## GitLab
 
-#### GitLab Community Edition / Enterprise Edition
+### ![gitlab](https://github.com/yoryio/ShodanExploitation/assets/134471901/1ace9ee7-0a02-4169-9211-da0733df00a0)  GitLab Community Edition / Enterprise Edition
 
 ```
 http.favicon.hash:1265477436
@@ -69,7 +69,7 @@ http.favicon.hash:-1439222863
 
 ## Jenkins
 
-### Jenkins
+### ![jenkins](https://github.com/yoryio/ShodanExploitation/assets/134471901/fb08af59-7fd7-4d90-b319-0c180df1878f)  Jenkins
 
 ```
 http.favicon.hash:81586312
