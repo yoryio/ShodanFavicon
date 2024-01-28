@@ -3,7 +3,7 @@ List of favicon hashes of the critical products by vendor to seach with Shodan
 
 ## Atlassian
 
-#### Bamboo Data Center
+#### Bamboo Data Center ![favicon](https://github.com/yoryio/ShodanExploitation/assets/134471901/79361b94-a582-4fc1-9a7a-3ba18e679864)
 
 ```
 http.favicon.hash:-1379982221
