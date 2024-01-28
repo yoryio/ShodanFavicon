@@ -1,8 +1,6 @@
 # ShodanFavicon
 
-- List of favicon hashes of critical products by vendor to seach with Shodan. 
-
-- This list will be updated with more products!
+List of favicon hashes of critical products by vendor to seach with Shodan. This list will be updated with more products!
 
 ## Atlassian
 
