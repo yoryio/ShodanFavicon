@@ -1,5 +1,8 @@
-# ShodanExploitation
-List of favicon hashes of the critical products by vendor to seach with Shodan
+# ShodanFavicon
+
+- List of favicon hashes of critical products by vendor to seach with Shodan. 
+
+- This list will be updated with more products!
 
 ## Atlassian
 
