@@ -2,6 +2,7 @@
 
 List of favicon hashes of critical products by vendor to seach with Shodan. This list will be updated with more products!
 
+
 ## Atlassian
 
 ### ![bamboo](https://github.com/yoryio/ShodanExploitation/assets/134471901/229a7ca0-0551-4fbd-9fa4-a362949256f7)  Bamboo
