@@ -84,6 +84,14 @@ http.favicon.hash:-1439222863
 http.favicon.hash:81586312
 ```
 
+## Mastodon
+
+### ![mastodon](https://github.com/yoryio/ShodanFavicon/assets/134471901/5524b5cc-aa19-499a-ae3f-eec69e2394dd)  Mastodon Instance
+
+```
+http.favicon.hash:-1269979934
+```
+
 ## SAP
 
 ### SAP NetWeaver
