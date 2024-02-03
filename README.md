@@ -1,7 +1,6 @@
-# ShodanFavicon
+# Shodan Favicon
 
-List of favicon hashes of critical products by vendor to seach with Shodan. This list will be updated with more products!
-
+List of **MurmurHash3 favicon hashes** of widely used technologies by vendor to search with Shodan. This list will be updated with more products!
 
 ## Atlassian
 
