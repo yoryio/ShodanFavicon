@@ -60,6 +60,14 @@ http.favicon.hash:-1806014473
 http.favicon.hash:-335242539
 ```
 
+## Fortinet
+
+### ![fortigate](https://github.com/yoryio/ShodanFavicon/assets/134471901/dcf4c53f-935b-4830-8229-84c16450c723)   FortiGate
+
+```
+http.favicon.hash:945408572
+```
+
 ## GitLab
 
 ### ![gitlab](https://github.com/yoryio/ShodanExploitation/assets/134471901/1ace9ee7-0a02-4169-9211-da0733df00a0)   GitLab Community Edition / Enterprise Edition
