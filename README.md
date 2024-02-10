@@ -108,10 +108,34 @@ http.favicon.hash:-1944119648
 http.favicon.hash:-1269979934
 ```
 
+## Palo Alto Networks
+
+### ![cortexsoar](https://github.com/yoryio/ShodanFavicon/assets/134471901/f25e99d5-dce5-4ac1-a22e-0776f73b70ca)   Cortex XSOAR
+
+```
+http.favicon.hash:-524723557
+```
+
 ## SAP
 
 ###  ![sapnetweaver](https://github.com/yoryio/ShodanFavicon/assets/134471901/3d77a1d3-5284-4cc7-a334-08cf6af18140)   SAP NetWeaver
 
 ```
 http.favicon.hash:-266008933
+```
+
+## SonicWall
+
+### ![sonicwall](https://github.com/yoryio/ShodanFavicon/assets/134471901/a46a49b2-2448-453a-99f5-36955f109c44)   SonicWall Firewall
+
+```
+http.favicon.hash:631108382
+```
+
+## 3CX
+
+### ![3cxphonesystem](https://github.com/yoryio/ShodanFavicon/assets/134471901/2bd85b01-82aa-4b2d-8409-1ec81c41712d)   3CX Phone System Management Console
+
+```
+http.favicon.hash:970132176
 ```
