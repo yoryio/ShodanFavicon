@@ -2,6 +2,14 @@
 
 List of **MurmurHash3 favicon hashes** of widely used technologies by vendor to search with Shodan. This list will be updated with more products!
 
+## Apache
+
+### ![tomcat](https://github.com/yoryio/ShodanFavicon/assets/134471901/309e6c79-cc68-4283-b26a-370b8db3be71)   Tomcat
+
+```
+http.favicon.hash:-297069493
+```
+
 ## Atlassian
 
 ### ![bamboo](https://github.com/yoryio/ShodanExploitation/assets/134471901/229a7ca0-0551-4fbd-9fa4-a362949256f7)   Bamboo
@@ -130,6 +138,14 @@ http.favicon.hash:-266008933
 
 ```
 http.favicon.hash:631108382
+```
+
+## Sophos
+
+### ![sophos](https://github.com/yoryio/ShodanFavicon/assets/134471901/e34ecfa4-7989-44dd-80a5-cd1c363326a7)   Shophos Products
+
+```
+http.favicon.hash:1601194732
 ```
 
 ## 3CX
