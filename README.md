@@ -76,6 +76,12 @@ http.favicon.hash:-335242539
 http.favicon.hash:945408572
 ```
 
+### FortiADC & FortiExtender
+
+```
+http.favicon.hash:467483715
+```
+
 ## GitLab
 
 ### ![gitlab](https://github.com/yoryio/ShodanExploitation/assets/134471901/1ace9ee7-0a02-4169-9211-da0733df00a0)   GitLab Community Edition / Enterprise Edition
@@ -116,12 +122,48 @@ http.favicon.hash:-1944119648
 http.favicon.hash:-1269979934
 ```
 
+## Microsoft
+
+### Outlook Web Application
+
+```
+http.favicon.hash:1768726119
+```
+
 ## Palo Alto Networks
 
 ### ![cortexsoar](https://github.com/yoryio/ShodanFavicon/assets/134471901/f25e99d5-dce5-4ac1-a22e-0776f73b70ca)   Cortex XSOAR
 
 ```
 http.favicon.hash:-524723557
+```
+
+###   Palo Alto Firewall
+
+```
+http.favicon.hash:873381299
+```
+
+### GlobalProtect Portal
+
+```
+http.favicon.hash:-631559155
+```
+
+## PaperCut
+
+### PaperCut MF
+
+```
+http.favicon.hash:-1142586156
+```
+
+## Progress
+
+### MOVEit
+
+```
+http.favicon.hash:989289239
 ```
 
 ## SAP
