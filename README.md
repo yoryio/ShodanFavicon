@@ -148,6 +148,14 @@ http.favicon.hash:631108382
 http.favicon.hash:1601194732
 ```
 
+## Zimbra
+
+### Zimbra Web Client Email
+
+```
+http.favicon.hash:1624375939
+```
+
 ## 3CX
 
 ### ![3cxphonesystem](https://github.com/yoryio/ShodanFavicon/assets/134471901/2bd85b01-82aa-4b2d-8409-1ec81c41712d)   3CX Phone System Management Console
