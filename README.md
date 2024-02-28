@@ -60,6 +60,14 @@ http.favicon.hash:628535358
 http.favicon.hash:-1806014473
 ```
 
+## ConnectWise
+
+### <img src="https://cloud.screenconnect.com/favicon.ico" alt="zimbra" width="32" height="32">   ScreenConnect
+
+```
+http.favicon.hash:-82958153
+```
+
 ## F5
 
 ### ![big-ip](https://github.com/yoryio/ShodanFavicon/assets/134471901/6e7b2bd7-1b9d-4f24-88ce-32d2f471d94f)  BIG-IP
@@ -76,7 +84,7 @@ http.favicon.hash:-335242539
 http.favicon.hash:945408572
 ```
 
-### FortiADC & FortiExtender
+### <img src="https://companieslogo.com/img/orig/FTNT-745f92ba.png?t=1657094696" alt="fortiadc" width="32" height="25"> FortiADC & FortiExtender
 
 ```
 http.favicon.hash:467483715
@@ -124,7 +132,7 @@ http.favicon.hash:-1269979934
 
 ## Microsoft
 
-### Outlook Web Application
+### <img src="https://w7.pngwing.com/pngs/658/570/png-transparent-microsoft-outlook-outlook-com-microsoft-office-365-outlook-on-the-web-microsoft-blue-angle-text-thumbnail.png" alt="outlook" width="32" height="32">  Outlook Web Application
 
 ```
 http.favicon.hash:1768726119
@@ -138,13 +146,13 @@ http.favicon.hash:1768726119
 http.favicon.hash:-524723557
 ```
 
-###   Palo Alto Firewall
+### <img src="https://companieslogo.com/img/orig/PANW-4618d203.png?t=1647840523" alt="panfw" width="32" height="25"> Palo Alto Firewall
 
 ```
 http.favicon.hash:873381299
 ```
 
-###   GlobalProtect Portal
+###  <img src="https://companieslogo.com/img/orig/PANW-4618d203.png?t=1647840523" alt="panfw" width="32" height="25">  GlobalProtect Portal
 
 ```
 http.favicon.hash:-631559155
@@ -152,7 +160,7 @@ http.favicon.hash:-631559155
 
 ## PaperCut
 
-### PaperCut MF
+### <img src="https://cdn.papercut.com/web/img/icon/favicon@16.png" alt="papercut" width="32" height="32">   PaperCut MF
 
 ```
 http.favicon.hash:-1142586156
@@ -160,7 +168,7 @@ http.favicon.hash:-1142586156
 
 ## Progress
 
-### MOVEit
+### <img src="https://www.progress.com/favicon.ico?v=2" alt="moveit" width="32" height="32">   MOVEit
 
 ```
 http.favicon.hash:989289239
@@ -192,7 +200,7 @@ http.favicon.hash:1601194732
 
 ## Zimbra
 
-### Zimbra Web Client Email
+### <img src="https://mail.zimbra.com/img/logo/favicon.ico" alt="zimbra" width="32" height="32">    Zimbra Web Client Email
 
 ```
 http.favicon.hash:1624375939
