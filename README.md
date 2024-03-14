@@ -60,6 +60,14 @@ http.favicon.hash:628535358
 http.favicon.hash:-1806014473
 ```
 
+## Cisco
+
+### <img src="https://cdn.iconscout.com/icon/free/png-256/free-cisco-1863556-1579764.png" alt="ciscowebui" width="32" height="32">   Cisco Web UI
+
+```
+http.favicon.hash:-299287097
+```
+
 ## ConnectWise
 
 ### <img src="https://cloud.screenconnect.com/favicon.ico" alt="zimbra" width="32" height="32">   ScreenConnect
