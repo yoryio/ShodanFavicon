@@ -208,7 +208,11 @@ http.favicon.hash:1601194732
 
 ## VMware
 
-### VMware ESXi
+### <img src="https://ds-blobs-1.cdn.devapps.ru/22574982.png" alt="vmwareesxi" width="32" height="32">   VMware ESXi
+
+```
+http.favicon.hash:45180380
+```
 
 ## Zimbra
 
