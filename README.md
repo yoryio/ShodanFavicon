@@ -70,7 +70,7 @@ http.favicon.hash:-299287097
 
 ## ConnectWise
 
-### <img src="https://cloud.screenconnect.com/favicon.ico" alt="zimbra" width="32" height="32">   ScreenConnect
+### <img src="https://cloud.screenconnect.com/favicon.ico" alt="connectwise" width="32" height="32">   ScreenConnect
 
 ```
 http.favicon.hash:-82958153
@@ -160,7 +160,7 @@ http.favicon.hash:-524723557
 http.favicon.hash:873381299
 ```
 
-###  <img src="https://companieslogo.com/img/orig/PANW-4618d203.png?t=1647840523" alt="panfw" width="32" height="25">  GlobalProtect Portal
+###  <img src="https://companieslogo.com/img/orig/PANW-4618d203.png?t=1647840523" alt="globalprotect" width="32" height="25">  GlobalProtect Portal
 
 ```
 http.favicon.hash:-631559155
@@ -205,6 +205,10 @@ http.favicon.hash:631108382
 ```
 http.favicon.hash:1601194732
 ```
+
+## VMware
+
+### VMware ESXi
 
 ## Zimbra
 
