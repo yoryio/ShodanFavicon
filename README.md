@@ -190,6 +190,14 @@ http.favicon.hash:-1142586156
 http.favicon.hash:989289239
 ```
 
+## Proxmox
+
+## <img src="https://camo.githubusercontent.com/cb6c50486cf76c4a9a9a4c7811f8bf97f59f7512d11119a386021086997cae0e/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f785f73796d626f6c5f7374616e646172645f6865782e706e67" width="32" height="32">  Proxmox Virtual Environment
+
+```
+http.favicon.hash:213144638
+```
+
 ## SAP
 
 ###  ![sapnetweaver](https://github.com/yoryio/ShodanFavicon/assets/134471901/3d77a1d3-5284-4cc7-a334-08cf6af18140)   SAP NetWeaver
