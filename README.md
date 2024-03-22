@@ -230,6 +230,14 @@ http.favicon.hash:45180380
 http.favicon.hash:1624375939
 ```
 
+## Zabbix
+
+### <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png" width="32" height="32">   Zabbix
+
+```
+http.favicon.hash:892542951
+```
+
 ## 3CX
 
 ### ![3cxphonesystem](https://github.com/yoryio/ShodanFavicon/assets/134471901/2bd85b01-82aa-4b2d-8409-1ec81c41712d)   3CX Phone System Management Console
