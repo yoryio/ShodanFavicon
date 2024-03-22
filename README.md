@@ -154,6 +154,14 @@ http.favicon.hash:-1269979934
 http.favicon.hash:1768726119
 ```
 
+## OpenVPN
+
+### <img src="https://seeklogo.com/images/O/openvpn-logo-1F15BD0826-seeklogo.com.png" width="32" height="32">   OpenVPN Access Server
+
+```
+http.favicon.hash:396533629
+```
+
 ## Palo Alto Networks
 
 ### ![cortexsoar](https://github.com/yoryio/ShodanFavicon/assets/134471901/f25e99d5-dce5-4ac1-a22e-0776f73b70ca)   Cortex XSOAR
