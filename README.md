@@ -106,6 +106,14 @@ http.favicon.hash:467483715
 http.favicon.hash:1265477436
 ```
 
+## Grafana
+
+### <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" width="32" height="32">   Grafana
+
+```
+http.favicon.hash:2123863676
+```
+
 ## Ivanti 
 
 ### ![ics](https://github.com/yoryio/ShodanFavicon/assets/134471901/e2249818-c476-49e5-a1c1-370b6437ec1d)   Ivanti Connect Secure
