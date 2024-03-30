@@ -114,6 +114,14 @@ http.favicon.hash:1265477436
 http.favicon.hash:2123863676
 ```
 
+## Imperva
+
+### <img src="https://www.imperva.com/wp-content/themes/impv/icons/favicon-192.png" width="32" height="32">   Imperva Data Security Fabric
+
+```
+http.favicon.hash:1725856879
+```
+
 ## Ivanti 
 
 ### ![ics](https://github.com/yoryio/ShodanFavicon/assets/134471901/e2249818-c476-49e5-a1c1-370b6437ec1d)   Ivanti Connect Secure
