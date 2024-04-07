@@ -254,6 +254,12 @@ http.favicon.hash:1601194732
 http.favicon.hash:45180380
 ```
 
+### <img src="https://cloud.vmwarehorizon.com/appblast/endpoint/assets/horizon-logo.svg" width="32" height="32">   VMware Horizon
+
+```
+http.favicon.hash:1521142546
+```
+
 ## Zimbra
 
 ### <img src="https://mail.zimbra.com/img/logo/favicon.ico" alt="zimbra" width="32" height="32">    Zimbra Web Client Email
