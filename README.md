@@ -1,4 +1,4 @@
-# Shodan Favicon
+# <img src="https://www.shodan.io/static/img/favicon-60c1b1cd.png" width="32" height="32">  Shodan Favicon
 
 List of **MurmurHash3 favicon hashes** of widely used technologies by vendor to search with Shodan. This list will be updated with more products!
 
@@ -74,6 +74,14 @@ http.favicon.hash:-299287097
 
 ```
 http.favicon.hash:-82958153
+```
+
+## Elastic
+
+### <img src="https://github.com/yoryio/ShodanFavicon/assets/134471901/45bcd460-d341-4f2e-87e5-4fb00253df9f" width="32" height="32">   Elasticsearch
+
+```
+http.favicon.hash:1611729805
 ```
 
 ## F5
@@ -244,6 +252,14 @@ http.favicon.hash:631108382
 
 ```
 http.favicon.hash:1601194732
+```
+
+## Tableu
+
+### <img src="https://www.tableau.com/themes/custom/tableau_www/favicon.ico" width="32" height="32">  Tableu Server
+
+```
+ http.favicon.hash:-1441956789
 ```
 
 ## VMware
