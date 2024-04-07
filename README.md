@@ -164,7 +164,7 @@ http.favicon.hash:-1269979934
 
 ## Microsoft
 
-### <img src="https://w7.pngwing.com/pngs/658/570/png-transparent-microsoft-outlook-outlook-com-microsoft-office-365-outlook-on-the-web-microsoft-blue-angle-text-thumbnail.png" alt="outlook" width="32" height="32">  Outlook Web Application
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/2163px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="outlook" width="32" height="32">  Outlook Web Application
 
 ```
 http.favicon.hash:1768726119
