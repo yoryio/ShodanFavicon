@@ -260,6 +260,14 @@ http.favicon.hash:45180380
 http.favicon.hash:1521142546
 ```
 
+## Zabbix
+
+### <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png" width="32" height="32">   Zabbix
+
+```
+http.favicon.hash:892542951
+```
+
 ## Zimbra
 
 ### <img src="https://mail.zimbra.com/img/logo/favicon.ico" alt="zimbra" width="32" height="32">    Zimbra Web Client Email
@@ -268,12 +276,12 @@ http.favicon.hash:1521142546
 http.favicon.hash:1624375939
 ```
 
-## Zabbix
+## Zyxel
 
-### <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png" width="32" height="32">   Zabbix
+### <img src="https://github.com/yoryio/ShodanFavicon/assets/134471901/a40685c0-8a15-4a97-9f15-416816f0ffb0" width="32" height="32">    Zyxel Web Server Configurator
 
 ```
-http.favicon.hash:892542951
+http.favicon.hash:1205970462
 ```
 
 ## 3CX
