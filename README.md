@@ -114,6 +114,14 @@ http.favicon.hash:1265477436
 http.favicon.hash:2123863676
 ```
 
+## HP
+
+### <img src="https://cdn.cookielaw.org/logos/4abb22ef-0e20-458e-be93-e351ad21c465/d7b075a7-eedf-48c4-8825-82055aa52681/e0ef4872-fc45-4dcb-bf84-4d8081cea805/HP_Logo_OT_email.png" width="32" height="32">   HP Printer Embedded Web Server
+
+```
+http.favicon.hash:905744673
+```
+
 ## Imperva
 
 ### <img src="https://www.imperva.com/wp-content/themes/impv/icons/favicon-192.png" width="32" height="32">   Imperva Data Security Fabric
