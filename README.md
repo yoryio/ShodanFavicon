@@ -68,6 +68,14 @@ http.favicon.hash:-1806014473
 http.favicon.hash:-299287097
 ```
 
+## Citrix
+
+### <img src="https://github.com/yoryio/ShodanFavicon/assets/134471901/846d9be0-569d-44c1-9211-592daf5e8193" width="32" height="32">  Netscaler Gateway
+
+```
+http.favicon.hash:-1166125415
+```
+
 ## ConnectWise
 
 ### <img src="https://cloud.screenconnect.com/favicon.ico" alt="connectwise" width="32" height="32">   ScreenConnect
@@ -236,6 +244,14 @@ http.favicon.hash:213144638
 
 ```
 http.favicon.hash:-266008933
+```
+
+## ServiceNow
+
+### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/0c/0f/2e0c0fa8-be34-5d1f-7582-5bf052aa72b9/SupportAppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/230x0w.webp" width="32" height="32"> ServiceNow Service Portal
+
+```
+http.favicon.hash:1701804003
 ```
 
 ## SonicWall
