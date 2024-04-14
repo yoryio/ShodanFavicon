@@ -152,6 +152,12 @@ http.favicon.hash:-1912808902
 http.favicon.hash:-600183134
 ```
 
+### <img src="https://raw.githubusercontent.com/yoryio/ShodanFavicon/main/assets/ibmhttpserver.ico" width="20" height="20">   IBM HTTP Server
+
+```
+http.favicon.hash:1726027799
+```
+
 ## Imperva
 
 ### <img src="https://www.imperva.com/wp-content/themes/impv/icons/favicon-192.png" width="32" height="32">   Imperva Data Security Fabric
