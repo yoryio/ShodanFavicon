@@ -138,6 +138,14 @@ http.favicon.hash:2123863676
 http.favicon.hash:905744673
 ```
 
+## IBM
+
+### <img src="https://www.gartner.com/pi/vendorimages/ibm_security-information-event-management_1585323925359.png" width="32" height="40">  IBM Security QRadar SOAR
+
+```
+http.favicon.hash:-1912808902
+```
+
 ## Imperva
 
 ### <img src="https://www.imperva.com/wp-content/themes/impv/icons/favicon-192.png" width="32" height="32">   Imperva Data Security Fabric
