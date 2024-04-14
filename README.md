@@ -146,6 +146,12 @@ http.favicon.hash:905744673
 http.favicon.hash:-1912808902
 ```
 
+### <img src="https://raw.githubusercontent.com/yoryio/ShodanFavicon/main/assets/ibmguardium.ico" width="32" height="32"> IBM Guardium
+
+```
+http.favicon.hash:-600183134
+```
+
 ## Imperva
 
 ### <img src="https://www.imperva.com/wp-content/themes/impv/icons/favicon-192.png" width="32" height="32">   Imperva Data Security Fabric
